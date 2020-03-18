@@ -1,5 +1,5 @@
-# Command-Line-PDF-Editor
-Command line PDF editor written in Python3.
+# Command-Line-PDF-Utility-Suit
+Command line PDF utility suit written in Python3.
 
 PDF utility suit allowing easy merging, splitting and simple editing of PDF files.
 
